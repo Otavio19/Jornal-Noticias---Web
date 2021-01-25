@@ -1,4 +1,6 @@
-<img src="imagens/logo.png" background="grey">
+<body background= "blue">
+
+<img src="imagens/logo.png">
 
 <h1 align="center">Projeto Jornal Noticias</h1>
 
